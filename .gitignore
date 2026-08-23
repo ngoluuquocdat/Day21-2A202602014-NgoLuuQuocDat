@@ -37,3 +37,6 @@ hf_cache/
 .idea/
 .vscode/
 *.swp
+
+# Large adapter binaries live in ZIP / HF Hub, not git (GitHub 100MB limit)
+artifacts/adapters/
